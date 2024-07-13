@@ -19,7 +19,7 @@ This project showcases the capabilities of Kafka for real-time data streaming an
 
 #DataStreaming #ApacheKafka #RealTimeStreaming #KafkaPOC #RealTimeData #StreamProcessing #SpringKafka #EventDrivenArchitecture #RealTimeAnalytics #MessagingQueue #StreamData #DistributedStreaming #EventStreaming #DataPipeline #RealTimeUpdates #KafkaStreams #StreamingData
 
-Steps to Test Kafka on Windows:
+# Steps to Test Kafka on Windows:
 
 1.Start Zookeeper:
 
